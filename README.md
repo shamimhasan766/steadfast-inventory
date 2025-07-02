@@ -10,3 +10,4 @@
 1. after login with credentials (email: mdsamime80@gmaill.com , password: 12345678) will redirect to dashboard and will see initially today sale and today expenses.. but can filter with date range.
 2. user can add product with name and other information and opening stock.
 3. user can sale product with discount and 5 percent vat will always add.
+4. Design is inspired from a template.. i give attention to development.
